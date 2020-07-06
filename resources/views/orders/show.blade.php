@@ -90,7 +90,7 @@
                                         未支付
                                     @endif
                                 </div>
-                                
+
                                 @if(isset($order->extra['refund_disagree_reason']))
                                     <div>
                                         <span>拒绝退款理由：</span>
