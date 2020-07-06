@@ -14,7 +14,7 @@ use Illuminate\Foundation\Validation\ValidatesRequests;
 class OrdersController extends AdminController
 {
     use ValidatesRequests;
-    
+
     protected $title = '订单';
 
     /**
