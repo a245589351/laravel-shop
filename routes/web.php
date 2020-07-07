@@ -14,6 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 // 产品路由
+Route::redirect('/home', '/products')->name('root');
 Route::redirect('/', '/products')->name('root');
 Route::get('products', 'ProductsController@index')->name('products.index');
 
