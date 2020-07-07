@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1e3ed3d8-5cac-4876-87cd-229c98a9902e" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -183,7 +184,7 @@
       <workItem from="1594104312095" duration="2392000" />
       <workItem from="1594108178009" duration="4000" />
       <workItem from="1594110453312" duration="1105000" />
-      <workItem from="1594113101614" duration="35000" />
+      <workItem from="1594113101614" duration="324000" />
     </task>
     <servers />
   </component>
